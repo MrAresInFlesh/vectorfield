@@ -8,6 +8,8 @@
 
 <font size="2pt">**Submission:** June 14, year 2021</font>
 
+Tous droits réservés © - HE-Arc 2021
+
 ---
 
 |Capture of the program output|
