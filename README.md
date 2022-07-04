@@ -16,6 +16,14 @@ Tous droits réservés © - HE-Arc 2021
 |:-:|
 |![demo content](img/vectorfield.png)|
 
+### Controls
+
+- Add particule: `left click`
+- Select vector: `ctrl + left click`
+  - Move vector using mouse.
+- Buttons makes possible to hide vector field to only have the particles, generate particles or reset the field.
+- Patterns are proposed to generate a vector field.
+
 ## Content
 
 A `Java` project made using `Java FX SDK`. The progam simulates a field of modifiable and interacting vectors.
